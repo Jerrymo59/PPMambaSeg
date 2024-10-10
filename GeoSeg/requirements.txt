@@ -1,0 +1,13 @@
+timm==0.9.16
+lightning==2.0.0
+albumentations
+ttach
+numpy
+tqdm
+opencv-python
+scipy
+matplotlib
+einops
+addict
+ftfy
+regex
